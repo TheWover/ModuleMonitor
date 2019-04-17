@@ -323,22 +323,22 @@ namespace CLRSentry
         private static void PrintUsage()
         {
             Console.WriteLine();
-            Console.WriteLine("| Process Manager [v0.1]");
+            Console.WriteLine("| Module Monitor [v0.1]");
             Console.WriteLine("| Copyright (c) 2019 TheWover");
             Console.WriteLine();
 
-            Console.WriteLine("Usage: ProcessManager.exe [machine]");
+            Console.WriteLine("Usage: ModuleMonitor.exe [--clr-sentry]");
             Console.WriteLine();
 
             Console.WriteLine("{0,-5} {1,-20} {2}", "", "-h, --help", "Display this help menu.");
+            Console.WriteLine("{0,-5} {1,-20} {2}", "", "--clr-sentry", "Monitor for CLR injection.");
             Console.WriteLine();
 
             Console.WriteLine("Examples:");
             Console.WriteLine();
 
-            Console.WriteLine("ProcessManager.exe");
-            Console.WriteLine("ProcessManager.exe workstation2");
-            Console.WriteLine("ProcessManager.exe 10.30.134.13");
+            Console.WriteLine("ModuleMonitor.exe");
+            Console.WriteLine("ModuleMonitor.exe --clr-monitor");
             Console.WriteLine();
         }
     }//end class
