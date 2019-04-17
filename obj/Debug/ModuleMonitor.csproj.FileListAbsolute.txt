@@ -1,6 +1,7 @@
 C:\Users\Shawn\source\repos\ModuleMonitor\bin\Debug\ModuleMonitor.exe
 C:\Users\Shawn\source\repos\ModuleMonitor\bin\Debug\ModuleMonitor.pdb
-C:\Users\Shawn\source\repos\ModuleMonitor\obj\Debug\ModuleMonitor.csprojAssemblyReference.cache
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Debug\ModuleMonitor.csproj.CoreCompileInputs.cache
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Debug\ModuleMonitor.exe
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Debug\ModuleMonitor.pdb
+C:\Users\Shawn\source\repos\ModuleMonitor\bin\Debug\ModuleMonitor.exe.config
+C:\Users\Shawn\source\repos\ModuleMonitor\obj\Debug\ModuleMonitor.csprojAssemblyReference.cache

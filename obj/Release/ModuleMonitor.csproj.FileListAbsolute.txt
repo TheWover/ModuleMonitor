@@ -3,3 +3,5 @@ C:\Users\Shawn\source\repos\ModuleMonitor\bin\Release\ModuleMonitor.pdb
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Release\ModuleMonitor.csproj.CoreCompileInputs.cache
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Release\ModuleMonitor.exe
 C:\Users\Shawn\source\repos\ModuleMonitor\obj\Release\ModuleMonitor.pdb
+C:\Users\Shawn\source\repos\ModuleMonitor\bin\Release\ModuleMonitor.exe.config
+C:\Users\Shawn\source\repos\ModuleMonitor\obj\Release\ModuleMonitor.csprojAssemblyReference.cache
