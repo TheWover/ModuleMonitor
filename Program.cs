@@ -22,6 +22,13 @@ namespace CLRSentry
         //TODO: Rename projec to ModuleMonitor, and add a --clrssentry option to watch for CLR injection
         static void Main(string[] args)
         {
+            if (args.Contains("-h") || args.Contains("--help"))
+            {
+                PrintUsage();
+
+                Environment.Exit(0);
+            }
+
 
             if (args.Contains("--clr-sentry"))
             {
